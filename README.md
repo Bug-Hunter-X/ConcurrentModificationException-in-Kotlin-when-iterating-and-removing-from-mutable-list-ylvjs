@@ -1,0 +1,1 @@
+This example demonstrates a common error in Kotlin when working with mutable lists.  The `removeIf` method is designed to handle removal safely, but manual iteration and removal can cause unexpected behavior.  The solution illustrates a safe way to modify a list while iterating.
